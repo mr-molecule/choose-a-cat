@@ -17,4 +17,3 @@ btn.addEventListener("click",function(){
         if(counter === pics.length) counter = 0;
     
 });
-
